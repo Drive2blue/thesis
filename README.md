@@ -8,7 +8,7 @@
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest) [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 
 # Wanderer: A Social Travel Diary
-
+Wanderer offers a smart way to organize your travel experience (e.g photos, blogs) and share them with your friends. If you need help coming up with an itinerary for your next trip, Wanderer can connect you to the right people in your network (or fetch a list of recommendations), thereby making your travel research / planning more personalized and relevant. 
 
 ## Team
 
@@ -42,13 +42,15 @@ From within the root directory:
 
 ```sh
 npm install
-npm start
+npm run dev
 ```
 
 ### Roadmap
 
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
-
+- Database
+- Server
+- Authentication
+- Client-side
 
 ## Contributing
 
